@@ -10,6 +10,9 @@ export default {
             data: 'v2.0',
             obj: {}
         }
+    },
+    methdos: {
+    
     }
 }
 </script>
