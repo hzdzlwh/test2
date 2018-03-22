@@ -7,7 +7,8 @@ export default {
     name: 'practise git',
     data() {
         return {
-            data: 'v2.0'
+            data: 'v2.0',
+            obj: {}
         }
     }
 }
