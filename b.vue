@@ -9,6 +9,9 @@ export default {
         return {
             data: 'v2.0'
         }
+    },
+    methdos: {
+    
     }
 }
 </script>
