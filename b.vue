@@ -4,7 +4,12 @@
 
 <script>
 export default {
-    name: 'practise git'
+    name: 'practise git',
+    data() {
+        return {
+            data: 'v2.0'
+        }
+    }
 }
 </script>
 
