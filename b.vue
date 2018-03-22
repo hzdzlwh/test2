@@ -13,7 +13,7 @@ export default {
     },
     methdos: {
         change() {
-        
+            console.log('dev-2.0 push to dev branch');
         }
     }
 }
