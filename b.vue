@@ -20,7 +20,7 @@ export default {
     },
     methdos: {
         change() {
-            console.log('dev-2.0 push to dev branch');
+            console.log('use to test merge master to dev-3.0');
         },
         add() {
             this.num++:
