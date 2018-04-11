@@ -1,5 +1,5 @@
 <template>
-    
+
 </template>
 
 <script>
@@ -13,12 +13,12 @@ export default {
     },
     methdos: {
         change() {
-        
+            console.log('modify in master then merge dev-3.0 for test');
         }
     }
 }
 </script>
 
 <style>
-    
+
 </style>
