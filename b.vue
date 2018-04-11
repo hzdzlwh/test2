@@ -2,6 +2,9 @@
     <div class="b">
         <button @click="add">{{num}}+</button>
         <button @click="reduce">{{num}}-</button>
+        <ul>
+            <li>a</li>
+        </ul>
     </div>
 </template>
 
@@ -24,6 +27,9 @@ export default {
         },
         reduce() {
             this.num--;
+        },
+        submit() {
+
         }
     }
 }
