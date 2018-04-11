@@ -13,7 +13,7 @@ export default {
     },
     methdos: {
         change() {
-            console.log('use to test merge master to dev-3.0');
+            console.log('hotfix master');
         }
     }
 }
