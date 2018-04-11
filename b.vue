@@ -1,6 +1,7 @@
 <template>
     <div class="b">
-        <button @click="add">{{num}}</button>
+        <button @click="add">{{num}}+</button>
+        <button @click="reduce">{{num}}-</button>
     </div>
 </template>
 
@@ -20,6 +21,9 @@ export default {
         },
         add() {
             this.num++:
+        },
+        reduce() {
+            this.num--;
         }
     }
 }
